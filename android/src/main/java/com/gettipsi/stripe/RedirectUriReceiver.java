@@ -2,7 +2,7 @@ package com.gettipsi.stripe;
 
 import android.app.Activity;
 import android.os.Bundle;
-import androidx.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.Log;
 
 /**
